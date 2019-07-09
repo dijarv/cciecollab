@@ -1,8 +1,11 @@
-## Welcome to GitHub Pages
+## CCIE Collaboration
 
-You can use the [editor on GitHub](https://github.com/dijarv/dijarv.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I want to study for CCIE. Or at least this is what I was telling myself for very long time. Actually for at least 3 years.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Back then I was working as a Junior Network Engineer for Infosoft Systems and together with Visar Shllaku, we were implementing Hosted Collaboration platform for Raiffeisen Bank Albania. The project was quite complex because beside the "standard" Cisco Collaboration deployment, part of the scope was integration between Cisco Contact Center Express platform and Bank Debt Management application. Our company at that time didn't have developers and we had to collaborate with a company from Bosnia named Neseco. During that time I've had the pleasure of meeting Bojan Kornijenko. A CCIE Security who inspired me to take this path.
+
+Local companies in Kosovo hesitate to invest in resources that aim for CCIE because of the fact that they experienced
+
 
 ### Markdown
 
