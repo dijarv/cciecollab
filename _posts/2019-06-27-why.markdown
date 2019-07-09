@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Blueprint review"
+date:   2019-06-27 12:22:18 +0200
+categories: Getting started
+---
+I want to study for CCIE. Or at least this is what I was telling myself for very long time. Actually for at least 3 years. 
+
+Back then I was working as a Junior Network Engineer for Infosoft Systems and together with Visar Shllaku, we were implementing Hosted Collaboration platform for Raiffeisen Bank Albania. The project was quite complex because beside the "standard" Cisco Collaboration deployment,  part of the scope was integration between Cisco Contact Center Express platform and Bank Debt Management application. Our company at that time didn't have developers and we had to collaborate with a company from Bosnia named Neseco. During that time I've had the pleasure of meeting Bojan Kornijenko. A CCIE Security who inspired me to take this path.
+
+Local companies in Kosovo hesitate to invest in resources that aim for CCIE because of the fact that they experienced 
+
