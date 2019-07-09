@@ -29,11 +29,6 @@ Text3+Image
 
 ![](https://s3.amazonaws.com/kajabi-storefronts-production/blogs/3184/images/emxCEFahTY2UOvjMbsWF_Collab_logo.png)
 
-执行安装   
-
-![](http://ww1.sinaimg.cn/large/7011d6cfjw1f2ue1w8eqnj20bx00hglg.jpg)  
-
-
 
 ``` 
 Highlighted section with text
