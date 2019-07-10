@@ -11,7 +11,7 @@ type: page
 
 ## About me
 
-My name is Dijar Vrella, 25y/o born in Peja, Kosovo. Son of two wonderful parents. brother to a future doctor and partner to an outstanding and loving woman.
+My name is Dijar Vrella, 25y/o born in Peja, Kosovo. Son of two wonderful parents, brother to a future doctor and partner to an outstanding and loving woman.
 
 I've obtained my Bachelor's Degree in Telecommunications in University of Prishtina "Hasan Prishtina", Faculty of Electrical and Computer Engineering. Also I'm a student in the Master's Degree program in the same Faculty with a few exams left to obtain my Degree.
 
