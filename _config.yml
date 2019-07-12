@@ -7,7 +7,7 @@
 
 # Site settings
 title: CCIE Collaboration
-brief-intro: Personal blog documenting my path towards CCIE Collaboration
+brief-intro: Personal blog
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://dijarv.github.io" # the base hostname & protocol for your site
 
